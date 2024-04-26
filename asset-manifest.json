@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sortCards/static/css/main.278767dd.css",
+    "main.js": "/sortCards/static/js/main.aac47cc4.js",
+    "index.html": "/sortCards/index.html",
+    "main.278767dd.css.map": "/sortCards/static/css/main.278767dd.css.map",
+    "main.aac47cc4.js.map": "/sortCards/static/js/main.aac47cc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.278767dd.css",
+    "static/js/main.aac47cc4.js"
+  ]
+}
